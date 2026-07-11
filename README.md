@@ -74,16 +74,7 @@
 
 </div>
 
-```typescript
-const ayantika: Developer = {
-  role        : "Computer Science Student | Cybersecurity Specialist",
-  focus       : ["Cybersecurity", "Full Stack Development", "AI/ML", "Blockchain"],
-  passion     : "Building secure, intelligent systems that solve real-world problems",
-  currentStudy: "B.Tech in Computer Science — Cybersecurity Specialization",
-  mindset     : "Security-first engineering with a product-focused mindset",
-  philosophy  : "Code is a craft. Security is a responsibility. Impact is the goal.",
-};
-```
+I'm a Computer Science student specialising in **Cybersecurity**, with hands-on experience across **Full Stack Development**, **Artificial Intelligence**, and **Blockchain**. I build secure, production-quality software — from machine learning threat-detection models to full-stack web applications — driven by a conviction that great engineering and rigorous security are inseparable.
 
 <details>
 <summary><b>&nbsp;Read More</b></summary>
