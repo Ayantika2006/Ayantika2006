@@ -231,26 +231,26 @@ I thrive at the intersection of security and innovation — where protecting sys
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">AI Phishing Detection</h3>
+      <h3 align="center">Persistent Flask Backend</h3>
       <p align="center">
-        <a href="https://github.com/Ayantika2006" target="_blank">
+        <a href="https://github.com/Ayantika2006/backend-postgres" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
       <p align="center">
-        Machine learning powered phishing URL and email detection system. Analyzes patterns using NLP and classification models to flag malicious content with high accuracy.
+        A production-ready, modular Flask application using Docker Compose, integrating a PostgreSQL database with an abstract repository pattern.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-0A0015?style=flat-square&logo=python&logoColor=9D4EDD"/>
-        <img src="https://img.shields.io/badge/TensorFlow-0A0015?style=flat-square&logo=tensorflow&logoColor=9D4EDD"/>
-        <img src="https://img.shields.io/badge/Scikit--learn-0A0015?style=flat-square&logo=scikit-learn&logoColor=9D4EDD"/>
-        <img src="https://img.shields.io/badge/Streamlit-0A0015?style=flat-square&logo=streamlit&logoColor=9D4EDD"/>
+        <img src="https://img.shields.io/badge/Flask-0A0015?style=flat-square&logo=flask&logoColor=9D4EDD"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-0A0015?style=flat-square&logo=postgresql&logoColor=9D4EDD"/>
+        <img src="https://img.shields.io/badge/Docker-0A0015?style=flat-square&logo=docker&logoColor=9D4EDD"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Automated Briefing Generator</h3>
       <p align="center">
-        <a href="https://github.com/Ayantika2006" target="_blank">
+        <a href="https://github.com/Ayantika2006/mr-clark-automated-briefing-generator" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
@@ -266,43 +266,42 @@ I thrive at the intersection of security and innovation — where protecting sys
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">TaskPilot</h3>
+      <h3 align="center">Love Compatibility Calculator</h3>
       <p align="center">
-        <a href="https://github.com/Ayantika2006" target="_blank">
+        <a href="https://github.com/Ayantika2006/Love_compatibility_check_fun_app" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
       <p align="center">
-        Smart task management web application with priority scheduling, deadline tracking, and an intuitive dashboard for enhanced personal productivity.
+        Interactive Streamlit web application that calculates user compatibility scores dynamically with progress bars and Valentine-themed styling.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-0A0015?style=flat-square&logo=react&logoColor=9D4EDD"/>
-        <img src="https://img.shields.io/badge/Node.js-0A0015?style=flat-square&logo=node.js&logoColor=9D4EDD"/>
-        <img src="https://img.shields.io/badge/MySQL-0A0015?style=flat-square&logo=mysql&logoColor=9D4EDD"/>
+        <img src="https://img.shields.io/badge/Python-0A0015?style=flat-square&logo=python&logoColor=9D4EDD"/>
+        <img src="https://img.shields.io/badge/Streamlit-0A0015?style=flat-square&logo=streamlit&logoColor=9D4EDD"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Weather Tracking App</h3>
       <p align="center">
-        <a href="https://github.com/Ayantika2006" target="_blank">
+        <a href="https://github.com/Ayantika2006/weather-app" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
       <p align="center">
-        Real-time weather application with location-based forecasting, interactive maps, and 7-day predictions powered by REST APIs and geolocation.
+        Real-time weather application with location-based forecasting, interactive maps, and 7-day predictions powered by OpenWeatherMap REST API.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-0A0015?style=flat-square&logo=javascript&logoColor=9D4EDD"/>
-        <img src="https://img.shields.io/badge/React-0A0015?style=flat-square&logo=react&logoColor=9D4EDD"/>
+        <img src="https://img.shields.io/badge/Python-0A0015?style=flat-square&logo=python&logoColor=9D4EDD"/>
+        <img src="https://img.shields.io/badge/Streamlit-0A0015?style=flat-square&logo=streamlit&logoColor=9D4EDD"/>
         <img src="https://img.shields.io/badge/REST%20API-0A0015?style=flat-square&logo=api&logoColor=9D4EDD"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Password Generator</h3>
+      <h3 align="center">Secure Password Generator</h3>
       <p align="center">
-        <a href="https://github.com/Ayantika2006" target="_blank">
+        <a href="https://github.com/Ayantika2006/secure-password-generator" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
@@ -311,23 +310,23 @@ I thrive at the intersection of security and innovation — where protecting sys
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-0A0015?style=flat-square&logo=python&logoColor=9D4EDD"/>
-        <img src="https://img.shields.io/badge/Tkinter-0A0015?style=flat-square&logo=python&logoColor=9D4EDD"/>
+        <img src="https://img.shields.io/badge/Streamlit-0A0015?style=flat-square&logo=streamlit&logoColor=9D4EDD"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rock Paper Scissors &amp; BMI Calculator</h3>
+      <h3 align="center">Text Encryption Tool</h3>
       <p align="center">
-        <a href="https://github.com/Ayantika2006" target="_blank">
+        <a href="https://github.com/Ayantika2006/text-encryption-tool" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
       <p align="center">
-        Interactive Rock Paper Scissors game with score tracking, and a health-focused BMI Calculator with personalized recommendations — both built with clean UI.
+        Multi-algorithm cryptographic utility implementing AES, DES, and RSA encryption algorithms to safely encode and decode text with a clean Streamlit interface.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-0A0015?style=flat-square&logo=python&logoColor=9D4EDD"/>
-        <img src="https://img.shields.io/badge/JavaScript-0A0015?style=flat-square&logo=javascript&logoColor=9D4EDD"/>
-        <img src="https://img.shields.io/badge/HTML%2FCSS-0A0015?style=flat-square&logo=html5&logoColor=9D4EDD"/>
+        <img src="https://img.shields.io/badge/Streamlit-0A0015?style=flat-square&logo=streamlit&logoColor=9D4EDD"/>
+        <img src="https://img.shields.io/badge/Cryptography-0A0015?style=flat-square&logo=openssl&logoColor=9D4EDD"/>
       </p>
     </td>
   </tr>
