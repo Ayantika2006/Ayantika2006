@@ -32,7 +32,7 @@
 <!--                    SOCIAL BADGES                          -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<a href="https://www.linkedin.com/in/ayantika-jana" target="_blank">
+<a href="https://www.linkedin.com/in/ayantika-jana-0103b6321?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A0015?style=for-the-badge&logo=linkedin&logoColor=9D4EDD&labelColor=0A0015&color=0A0015" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -40,11 +40,11 @@
   <img src="https://img.shields.io/badge/GitHub-0A0015?style=for-the-badge&logo=github&logoColor=9D4EDD&labelColor=0A0015&color=0A0015" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="mailto:ayantika2006@example.com" target="_blank">
+<a href="mailto:ayantikajana01@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-0A0015?style=for-the-badge&logo=gmail&logoColor=9D4EDD&labelColor=0A0015&color=0A0015" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://www.hackerrank.com/ayantika2006" target="_blank">
+<a href="https://www.hackerrank.com/profile/ayantikajana01" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-0A0015?style=for-the-badge&logo=hackerrank&logoColor=9D4EDD&labelColor=0A0015&color=0A0015" alt="HackerRank"/>
 </a>
 &nbsp;
@@ -74,7 +74,7 @@
 
 </div>
 
-I'm a Computer Science student specialising in **Cybersecurity**, with hands-on experience across **Full Stack Development**, **Artificial Intelligence**, and **Blockchain**. I build secure, production-quality software — from machine learning threat-detection models to full-stack web applications — driven by a conviction that great engineering and rigorous security are inseparable.
+Focused on the intersection of robust engineering and proactive defense, I design and deploy secure, scalable digital experiences. My work spans end-to-end web applications, machine learning-driven threat detection models, and decentralized solutions—developed with a strong focus on defensive architecture and software integrity.
 
 <details>
 <summary><b>&nbsp;Read More</b></summary>
@@ -415,7 +415,7 @@ I thrive at the intersection of security and innovation — where protecting sys
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ayantika-jana" target="_blank">
+<a href="https://www.linkedin.com/in/ayantika-jana-0103b6321?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0015" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
@@ -423,11 +423,11 @@ I thrive at the intersection of security and innovation — where protecting sys
   <img src="https://img.shields.io/badge/GitHub-Follow-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0015" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:ayantika2006@example.com" target="_blank">
+<a href="mailto:ayantikajana01@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0015" alt="Email"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.hackerrank.com/ayantika2006" target="_blank">
+<a href="https://www.hackerrank.com/profile/ayantikajana01" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-Solve-9D4EDD?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0A0015" alt="HackerRank"/>
 </a>
 &nbsp;&nbsp;
