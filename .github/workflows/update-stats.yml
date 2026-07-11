@@ -1,0 +1,32 @@
+name: Update README Stats
+
+on:
+  # Run every 6 hours to keep stats fresh
+  schedule:
+    - cron: "0 */6 * * *"
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    name: Refresh Profile Stats
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # This step uses GitHub's cache invalidation to keep
+      # external stats widgets (Vercel, herokuapp) refreshed.
+      # No secrets needed — widgets auto-refresh from their APIs.
+      - name: Trigger Cache Bust
+        run: |
+          echo "Stats refresh triggered at $(date -u)" >> .stats-log
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .stats-log
+          git diff --cached --quiet || git commit -m "chore: refresh stats cache [$(date -u +%Y-%m-%d)]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
