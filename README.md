@@ -17,7 +17,7 @@
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=1&pause=99999&color=C77DFF&center=true&vCenter=true&width=700&lines=Cybersecurity+%E2%80%A2+Full-Stack+Development+%E2%80%A2+Artificial+Intelligence+%E2%80%A2+Blockchain" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=1&pause=99999&color=C77DFF&center=true&vCenter=true&width=700&lines=Cybersecurity+%E2%80%A2+Full-Stack+Development+%E2%80%A2+A+I+%E2%80%A2+Blockchain" alt="Subtitle" />
 </p>
 
 <!-- ══════════════════════════════════════════════════════════ -->
