@@ -266,18 +266,21 @@ I thrive at the intersection of security and innovation — where protecting sys
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Love Compatibility Calculator</h3>
+      <h3 align="center">Voxel-Flier</h3>
       <p align="center">
-        <a href="https://github.com/Ayantika2006/Love_compatibility_check_fun_app" target="_blank">
+        <a href="https://github.com/Ayantika2006/voxel-flier" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
       <p align="center">
-        Interactive Streamlit web application that calculates user compatibility scores dynamically with progress bars and Valentine-themed styling.
+        Voxel-inspired endless arcade game built with Phaser 3 featuring procedural textures, dynamic obstacles, weather effects, achievements, and retro pixel-           art visuals.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-0A0015?style=flat-square&logo=python&logoColor=9D4EDD"/>
-        <img src="https://img.shields.io/badge/Streamlit-0A0015?style=flat-square&logo=streamlit&logoColor=9D4EDD"/>
+       https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+      https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+        https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+        https://img.shields.io/badge/Phaser-5A189A?style=for-the-badge
+        https://img.shields.io/badge/Game_Development-8A2BE2?style=for-the-badge
       </p>
     </td>
     <td width="50%" valign="top">
