@@ -283,6 +283,29 @@ I thrive at the intersection of security and innovation — where protecting sys
         <img src="https://img.shields.io/badge/Game_Development-8A2BE2?style=for-the-badge">
       </p>
     </td>
+
+
+<td width="50%" valign="top">
+      <h3 align="center">Avaloria: Rise of Eclipse</h3>
+      <p align="center">
+        <a href="https://github.com/Ayantika2006/Avaloria-Rise-of-Eclipse" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </p>
+      <p align="center">
+        Story-driven superhero action-adventure game built with Phaser, featuring real-time combat, exploration, minigames, character progression, and city development.           art visuals.
+      </p>
+      <p align="center">
+       <img scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Phaser-5A189A?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Game_Development-8A2BE2?style=for-the-badge">
+      </p>
+    </td>
+
+
+    
     <td width="50%" valign="top">
       <h3 align="center">Weather Tracking App</h3>
       <p align="center">
