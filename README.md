@@ -247,6 +247,7 @@ I thrive at the intersection of security and innovation — where protecting sys
         <img src="https://img.shields.io/badge/Docker-0A0015?style=flat-square&logo=docker&logoColor=9D4EDD"/>
       </p>
     </td>
+
     <td width="50%" valign="top">
       <h3 align="center">Automated Briefing Generator</h3>
       <p align="center">
@@ -264,6 +265,7 @@ I thrive at the intersection of security and innovation — where protecting sys
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Voxel-Flier</h3>
@@ -273,19 +275,18 @@ I thrive at the intersection of security and innovation — where protecting sys
         </a>
       </p>
       <p align="center">
-        Voxel-inspired endless arcade game built with Phaser 3 featuring procedural textures, dynamic obstacles, weather effects, achievements, and retro pixel-           art visuals.
+        Voxel-inspired endless arcade game built with Phaser 3 featuring procedural textures, dynamic obstacles, weather effects, achievements, and retro pixel-art visuals.
       </p>
       <p align="center">
-       <img scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/Phaser-5A189A?style=for-the-badge">
         <img src="https://img.shields.io/badge/Game_Development-8A2BE2?style=for-the-badge">
       </p>
     </td>
 
-
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Avaloria: Rise of Eclipse</h3>
       <p align="center">
         <a href="https://github.com/Ayantika2006/Avaloria-Rise-of-Eclipse" target="_blank">
@@ -293,19 +294,19 @@ I thrive at the intersection of security and innovation — where protecting sys
         </a>
       </p>
       <p align="center">
-        Story-driven superhero action-adventure game built with Phaser, featuring real-time combat, exploration, minigames, character progression, and city development.           art visuals.
+        Story-driven superhero action-adventure game built with Phaser, featuring real-time combat, exploration, minigames, character progression, and city development.
       </p>
       <p align="center">
-       <img scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/Phaser-5A189A?style=for-the-badge">
         <img src="https://img.shields.io/badge/Game_Development-8A2BE2?style=for-the-badge">
       </p>
     </td>
+  </tr>
 
-
-    
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Weather Tracking App</h3>
       <p align="center">
@@ -322,8 +323,7 @@ I thrive at the intersection of security and innovation — where protecting sys
         <img src="https://img.shields.io/badge/REST%20API-0A0015?style=flat-square&logo=api&logoColor=9D4EDD"/>
       </p>
     </td>
-  </tr>
-  <tr>
+
     <td width="50%" valign="top">
       <h3 align="center">Secure Password Generator</h3>
       <p align="center">
@@ -339,6 +339,9 @@ I thrive at the intersection of security and innovation — where protecting sys
         <img src="https://img.shields.io/badge/Streamlit-0A0015?style=flat-square&logo=streamlit&logoColor=9D4EDD"/>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Text Encryption Tool</h3>
       <p align="center">
@@ -354,6 +357,9 @@ I thrive at the intersection of security and innovation — where protecting sys
         <img src="https://img.shields.io/badge/Streamlit-0A0015?style=flat-square&logo=streamlit&logoColor=9D4EDD"/>
         <img src="https://img.shields.io/badge/Cryptography-0A0015?style=flat-square&logo=openssl&logoColor=9D4EDD"/>
       </p>
+    </td>
+
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
