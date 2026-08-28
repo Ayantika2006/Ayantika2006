@@ -1,0 +1,45 @@
+name: Generate Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate Contribution Graph
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: >-
+            bg_color=0d001a
+            color=C77DFF
+            line=9D4EDD
+            point=FFFFFF
+            area=true
+            area_color=7B2FBE
+            hide_border=true
+            custom_title=Contribution Graph
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish Graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
