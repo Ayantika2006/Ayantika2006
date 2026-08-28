@@ -141,16 +141,50 @@ I thrive at the intersection of security and innovation — where protecting sys
 
 ## `< GitHub Analytics />`
 
+<br/>
+
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ayantika2006&show_icons=true&theme=transparent&hide_border=true&title_color=9D4EDD&icon_color=9D4EDD&text_color=C77DFF&ring_color=7B2FBE&bg_color=0d001a" alt="GitHub Stats" width="100%" />
+      <img
+        src="./profile/stats.svg"
+        alt="GitHub Stats"
+        width="100%"
+      />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayantika2006&layout=compact&theme=transparent&hide_border=true&title_color=9D4EDD&text_color=C77DFF&bg_color=0d001a&langs_count=8" alt="Top Languages" width="100%" />
+      <img
+        src="./profile/top-langs.svg"
+        alt="Top Languages"
+        width="100%"
+      />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<img
+  src="./profile/streak.svg"
+  alt="GitHub Streak"
+  width="70%"
+/>
+
+<br/><br/>
+
+<img
+  src="./assets/contribution-graph.svg"
+  alt="Contribution Graph"
+  width="95%"
+/>
+
+<br/><br/>
+
+<img
+  src="./output/github-snake.svg"
+  alt="Contribution Snake"
+  width="95%"
+/>
 
 </div>
 
