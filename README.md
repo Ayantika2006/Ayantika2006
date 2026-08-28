@@ -148,10 +148,11 @@ I thrive at the intersection of security and innovation — where protecting sys
     <td align="center" width="50%">
       <img
         src="./profile/stats.svg"
-        alt="GitHub Stats"
+        alt="GitHub Statistics"
         width="100%"
       />
     </td>
+
     <td align="center" width="50%">
       <img
         src="./profile/top-langs.svg"
@@ -166,49 +167,37 @@ I thrive at the intersection of security and innovation — where protecting sys
 
 <img
   src="./profile/streak.svg"
-  alt="GitHub Streak"
+  alt="Contribution Streak"
   width="70%"
 />
 
 <br/><br/>
 
 <img
-  src="./assets/contribution-graph.svg"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ayantika2006&bg_color=0d001a&color=C77DFF&line=9D4EDD&point=FFFFFF&area=true&area_color=7B2FBE&hide_border=true&custom_title=Contribution+Graph"
   alt="Contribution Graph"
   width="95%"
 />
 
 <br/><br/>
 
-<img
-  src="./output/github-snake.svg"
-  alt="Contribution Snake"
-  width="95%"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ayantika2006/Ayantika2006/output/github-snake-dark.svg"
+  />
 
-</div>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ayantika2006/Ayantika2006/output/github-snake.svg"
+  />
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STREAK                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayantika2006&theme=transparent&hide_border=true&ring=9D4EDD&fire=C77DFF&currStreakLabel=9D4EDD&sideLabels=C77DFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7B2FBE&background=0d001a" alt="GitHub Streak" width="70%" />
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                 CONTRIBUTION GRAPH                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayantika2006&bg_color=0d001a&color=C77DFF&line=9D4EDD&point=FFFFFF&area=true&area_color=7B2FBE&hide_border=true&custom_title=Contribution+Graph" alt="Contribution Graph" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/Ayantika2006/Ayantika2006/output/github-snake-dark.svg"
+    alt="Contribution Snake"
+    width="95%"
+  />
+</picture>
 
 </div>
 
