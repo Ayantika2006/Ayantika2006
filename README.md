@@ -141,99 +141,63 @@ I thrive at the intersection of security and innovation — where protecting sys
 
 ## `< GitHub Analytics />`
 
-<br/>
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="./profile/stats.svg"
-        alt="GitHub Statistics"
-        width="100%"
-      />
-    </td>
+| GitHub Statistics | Top Languages |
+|:---:|:---:|
+| <img src="./profile/stats.svg" alt="GitHub Statistics" width="100%"> | <img src="./profile/top-langs.svg" alt="Top Languages" width="100%"> |
 
-    <td align="center" width="50%">
-      <img
-        src="./profile/top-langs.svg"
-        alt="Top Languages"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
 <br/>
 
-<img
-  src="./profile/streak.svg"
-  alt="Contribution Streak"
-  width="70%"
-/>
+<img src="./profile/streak.svg" alt="Contribution Streak" width="70%">
 
 <br/><br/>
 
+<!-- Contribution Graph -->
+
+<div align="center">
+
+<div align="center">
+
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Ayantika2006&bg_color=0d001a&color=C77DFF&line=9D4EDD&point=FFFFFF&area=true&area_color=7B2FBE&hide_border=true&custom_title=Contribution+Graph"
+  src="https://raw.githubusercontent.com/Ayantika2006/Ayantika2006/output/activity-graph.svg"
   alt="Contribution Graph"
   width="95%"
 />
 
-<br/><br/>
+</div>
+
+<br/>
+
+</div>
+
+<br/>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Ayantika2006/Ayantika2006/output/github-snake-dark.svg"
-  />
-
+  >
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Ayantika2006/Ayantika2006/output/github-snake.svg"
-  />
-
+  >
   <img
     src="https://raw.githubusercontent.com/Ayantika2006/Ayantika2006/output/github-snake-dark.svg"
     alt="Contribution Snake"
     width="95%"
-  />
+  >
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                 CONTRIBUTION SNAKE                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayantika2006/Ayantika2006/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayantika2006/Ayantika2006/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Ayantika2006/Ayantika2006/output/github-snake-dark.svg" width="100%" />
-</picture>
 
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" />
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB TROPHIES                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## `< Achievements & Trophies />`
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayantika2006&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%" />
-
-</div>
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                  FEATURED PROJECTS                        -->
 <!-- ══════════════════════════════════════════════════════════ -->
