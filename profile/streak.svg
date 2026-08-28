@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220">
+  <rect width="800" height="220" rx="20" fill="#0D001A"/>
+  <rect x="2" y="2" width="796" height="216" rx="18" fill="none" stroke="#7B2FBE" stroke-width="3"/>
+
+  <text x="400" y="55"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="28"
+        font-weight="bold"
+        fill="#C77DFF">
+    Contribution Streak
+  </text>
+
+  <text x="400" y="85"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        fill="#9D4EDD">
+    Keep building. Keep coding. ✨
+  </text>
+
+  <line x1="100" y1="110" x2="700" y2="110"
+        stroke="#3A1460"
+        stroke-width="2"/>
+
+  <text x="200" y="155"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="32"
+        font-weight="bold"
+        fill="#C77DFF">🔥</text>
+
+  <text x="200" y="185"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="13"
+        fill="#9D4EDD">
+    CURRENT STREAK
+  </text>
+
+  <text x="400" y="155"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="32"
+        font-weight="bold"
+        fill="#C77DFF">💜</text>
+
+  <text x="400" y="185"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="13"
+        fill="#9D4EDD">
+    PURPLE MODE
+  </text>
+
+  <text x="600" y="155"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="32"
+        font-weight="bold"
+        fill="#C77DFF">✨</text>
+
+  <text x="600" y="185"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="13"
+        fill="#9D4EDD">
+    KEEP CODING
+  </text>
+</svg>
